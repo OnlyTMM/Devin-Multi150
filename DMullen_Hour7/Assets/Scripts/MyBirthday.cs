@@ -6,20 +6,20 @@ public class MyBirthday : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
-    //When count reaches 5, it will print
+    //When month reaches 5, it will print
     //it's my birthday
     {
-    int count = 1;
-    while (count <=12)
+    int month = 1;
+    while (month <=12)
     {
-        print(count);
-        count++;
-        if(count == 5)
+        print(month);
+        month++;
+        if(month == 5)
         {
         print("It's my Birthday");
         }
     }
-    //When count reaches 3 it will print
+    //When day reaches 3 it will print
     //it's my birthday
     int day = 1;
     while (day <=30)
