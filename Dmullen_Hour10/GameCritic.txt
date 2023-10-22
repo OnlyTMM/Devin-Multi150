@@ -1,0 +1,10 @@
+1. Game is too easy, balls often score by themselves without player interaction.
+2. It needs to be more difficult to get the balls into the goals. There has to be some kind of obstacle
+3. Maybe make a ball that moves much slower and end the game if it touches you
+4. The bounciness of the balls are fun. Chasing down the balls can be tedious and it is way too easy to score. There is no sense of threat in the game making it lack luster.
+Suggested Enhancements
+1. Make a ball that moves slowly and causes a game over upon contact with bumper
+2. Place a sort of obstacle to navigate a ball around to score
+3. Add spinners for more chaos
+4. Speed up the game a bit (Bumper, balls)
+5. Add a bit of fog to obscure the balls, that way the evil ball is a bit more discreet and harder to see from a bit of distance.
