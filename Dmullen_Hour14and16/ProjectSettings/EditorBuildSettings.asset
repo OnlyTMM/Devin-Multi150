@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Excercise_Hour14.unity
+    path: Assets/Scenes/Dmullen_Hour14.unity
     guid: 28abe4249acbe294ab56e5de9c82a11d
   - enabled: 1
     path: Assets/Scenes/Game.unity
