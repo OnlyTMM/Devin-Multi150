@@ -1,0 +1,20 @@
+1. The Game is very easy. 
+A. First off, the objects moving torwards the player move at a very slow pace, making it easy to dodge the obstacles and grab the power ups.
+B. Second there is no kind of variety, the red obstacles and yellow objects spawn in an easy to read patter, red,red,yellow.
+C. Third The only real difficulty occurs when objects spawn almost touching each other almost guarnteeing you to get hit.
+2.
+A. It needs some form of variety to the obstacle, whether it be speed or the ability to move
+B. Randomization of the pattern of powerups and obstacles.
+C. Make a sort of super power up that gives you a lot of time, but make it harder to catch by making it smaller and move quick/erratic.
+3.
+A  Make an obstacle that quickly changes direction and moves quickly
+B As mentioned above a form of super powerup that gives you a lot of time and lets you move very quickly w/out taking damage.
+C Perhaps adding some for of path to give the player some creativity, one path would spawn a lot of powerups and obstacles the other perhaps few powerups but a lot of obstacles.
+4.
+A. Trying to survive for as long as possible is somewhat entertaining.
+B. Close calls with obstacles to grab power ups.
+C. Phasing to grab hard to reach obstacles
+5.
+A. No real goal besides surviving as long as possible, gets boring and repititve fast.
+B. Lack of variety makes the game really predicitble and boring
+C. Lack of highscore/point goal to strive for.
